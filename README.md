@@ -32,7 +32,32 @@
     <img src="img_bandmember.jpg" alt="Random Name" style="width:100%">
     <p>Ringo is the funniest.</p>
   </article>
-</section>
+</section> 
+
+   <h3 class="w3-padding-16">My Skills</h3>
+    <p class="w3-wide">Communication</p>
+    <div class="w3-light-grey">
+      <div class="w3-container w3-center w3-padding-small w3-pink" style="width:80%">80%</div>
+    </div>
+    <p class="w3-wide">Management</p>
+    <div class="w3-light-grey">
+      <div class="w3-container w3-center w3-padding-small w3-purple" style="width:95%">95%</div>
+    </div>
+    <p class="w3-wide">Planning and Organizing</p>
+    <div class="w3-light-grey">
+      <div class="w3-container w3-center w3-padding-small w3-blue" style="width:85%">85%</div>
+    </div><br>
+
+  <!-- Contact Section -->
+  <div class="w3-padding-32 w3-content w3-text-grey" id="contact" style="margin-bottom:64px">
+    <h2>Contact Information</h2>
+    <hr class="w3-opacity">
+
+    <div class="w3-section">
+      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i> 27-L Tullahan Rd. Sta. Quiteria, Caloocan City</p>
+      <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +639369474474</p>
+      <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: lyraaembalsado@gmail.com</p>
+    </div>
 
 
 </body>
