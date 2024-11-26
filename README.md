@@ -226,10 +226,10 @@
 </div>
   </main>
 
-  <section>
+  <section style="background-color: maroon; color:white; background-size: cover; background-position: center; background-attachment: fixed;">
   <div class="w3-container w3-padding-large" style="margin-bottom:20px" >
    <div class="w3-container" id="about">
-  <div class="w3-content" style="max-width:1300px">
+  <div class="w3-content" style="max-width:1300px;">
     <h2 class="w3-center w3-large">MAGANDANG BUHAY! I'm Lyra Ashley U. Embalsado, a 19-year-old student from Caloocan City, currently pursuing a Bachelor of Science in Information Technology at the University of the East Caloocan, While my studies equip me with the technical skills to navigate the digital world, my passion lies in using those skills, along with my voice, to advocate for children's rights and well-being. I believe in leading by example-whether It's through actively participating in child-centered projects, representing young people in initiatives focused on education and empowerment, or simply being a role model for others to follow. For me, it's not just about earning a degree; it's about demonstrating that each of us has the power to create change. By combining my knowledge and my dedication to service, I aim to inspire others to step up and make a lasting, positive Impact on the lives of children and future generations. 
   </section>
 
@@ -297,11 +297,59 @@
     <h2 class="section-text-header" style="margin-top: 0px; margin-bottom: 20px; font-weight: 800">PROJECTS AND ACTIVITIES</h2>
   </div>
 
+  <div class="w3-row-padding w3-padding-16 w3-center" id="paa">
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/91/1a/fc/911afc387bbb19cc13b86c2ed4e38f42.jpg" alt="CRA" style="width:100%">
+      <h3 style="color: maroon">CHILD RIGHTS ADVOCATE</h3>
+      <p style="margin-bottom: 20px">I began my advocacy work focusing on Online Sexual Abuse and Exploitation of Children (OSAEC), and through this journey, I gained a deeper understanding of Child Rights. Today, I serve as a child and adolescent representative for projects such as the Youth Advisory Board of Coram International, the Evaluation Reference Group of UNICEF, and various other initiatives with partners who advocate for children's rights.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/b7/c6/24/b7c624703d9fc447c5a790c773db6c97.jpg" alt="Collab" style="width:100%">
+      <h3 style="color: maroon">COLLABORATION WITH NGOs AND GOs</h3>
+      <p style="margin-bottom: 20px">Through my involvement with Valenzuela Young Heroes, I regularly collaborate with NGOs and government organizations to present advocacy materials such as songs, poetry, and theater plays. These performances are designed to raise awareness of child rights issues and serve as a powerful call to action, encouraging organizations and communities to take steps toward protecting and empowering children.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/1c/3a/27/1c3a270bb7d9719e95f54c817a03cd7b.jpg" alt="CEV" style="width:100%">
+      <h3 style="color: maroon">COMMUNITY ENGAGEMENT AND VOLUNTEERISM</h3>
+      <p style="margin-bottom: 20px">I volunteer with local organizations to support advocacy campaigns and raise awareness on important issues such as education, health, and sustainability. My work includes organizing events, leading outreach efforts, and helping mobilize community action to address these challenges and drive positive change.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/e4/fd/e5/e4fde5e7f82edd41ee64fb6a48f977d9.jpg" alt="Host" style="width:100%">
+      <h3 style="color: maroon">HOSTING EVENTS</h3>
+      <p style="margin-bottom: 20px">I ocassionally host events in my free time, managing logistics and keeping guests engaged. I focus on ensuring events run smoothly, adding adlibs and feedbacks from the things that the event speakers have tackled and make the attendees have a positive experience.</p>
+    </div>
+  </div>
+
+<section style="background-color: maroon; color:white; background-size: cover; background-position: center; background-attachment: fixed;">
   <!-- Achievements-->
 <div class="w3-midnight-blue" id="achievements">
   <div class="w3-container ">
     <h2 class="section-text-header" style="margin-top: 0px; margin-bottom: 20px; font-weight: 800">ACHIEVEMENTS</h2>
   </div>
+
+    <div class="w3-row-padding w3-padding-16 w3-center" id="achievements">
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/23/08/97/2308977cef24a3472ffec9ddf33592d1.jpg" alt="LA" style="width:100%">
+      <h3 style="color: white; font-weight: 600">LEADERSHIP AWARDEE</h3>
+      <p style="margin-bottom: 20px">I was honored to serve as the President of the Supreme Secondary Learner Government of Gen. Tiburcio De Leon National High School for three years, and as a dedicated officer in the Division Federation Supreme Secondary Learner Government, holding the positions of Treasurer, Vice President, and Secretary across three consecutive years. My leadership journey also includes being a delegate at the Learners Convergence 2023. Beyond leadership, I’ve actively engaged in community service, particularly in advocating for children's rights, making a meaningful impact through various volunteer initiatives.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/68/68/39/686839ec831b2545c1b989ebea3e5c9d.jpg" alt="CA" style="width:100%">
+      <h3 style="color: white; font-weight: 600">CHILD ADVOCATE</h3>
+      <p style="margin-bottom: 20px">As a passionate Child Advocate, I have dedicated myself to championing children's rights and ensuring their voices are heard in decision-making processes. I played a key role in providing valuable suggestions for the Implementing Rules and Regulations (IRR) of a new law focused on child welfare. Additionally, I actively participated in evaluating and recommending future projects aimed at improving the lives and opportunities of children, ensuring that their needs and rights are always prioritized in policy development.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/e1/5f/15/e15f15b238114d9d8d645195addce83a.jpg" alt="VDC" style="width:100%">
+      <h3 style="color: white; font-weight: 600">VALENZUELA DIGICHAMPS</h3>
+      <p style="margin-bottom: 20px">The development of the DigiChamps module, a program designed to teach children digital responsibility. The module equips young learners with the knowledge and skills to navigate online spaces ethically, fostering critical thinking and responsible digital citizenship. Created through collaborative workshops with children and educators, DigiChamps empowers students to engage with technology in a safe, informed, and ethical manner, preparing them for the challenges of the digital age.</p>
+    </div>
+    <div class="w3-quarter">
+      <img src="https://i.pinimg.com/474x/5f/80/f8/5f80f80b43e8a00543b80ccba3c88822.jpg" alt="LCPC" style="width:100%">
+      <h3 style="color: white; font-weight: 600">VALENZEULA CITY LCPC CHILD REPRESENTATIVE</h3>
+      <p style="margin-bottom: 20px">As a Child Representative to the Valenzuela City Local Council for the Protection of Children, I played a key role in advocating for the rights and welfare of children in our community. One of my most significant contributions was leading efforts to propose and implement changes to the Local Children’s Code of Valenzuela City, ensuring that it better addressed the evolving needs of children. Through collaboration with local officials and child protection organizations, I helped strengthen policies that promote the safety, education, and well-being of children in the city.</p>
+    </div>
+  </div>
+  </section>
 
   <!-- Contact Information-->
 <div class="w3-midnight-blue" id="contact">
